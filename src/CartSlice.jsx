@@ -1,3 +1,5 @@
+/* eslint-disable react-refresh/only-export-components */
+/* eslint-disable react-refresh/only-export-components */
 import { createSlice } from '@reduxjs/toolkit';
 
 export const CartSlice = createSlice({
